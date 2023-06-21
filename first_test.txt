@@ -1,5 +1,0 @@
-ID
-Summary
-Preconditions
-Steps
-Expected result
