@@ -3,4 +3,4 @@ Summary
 Preconditions
 Steps
 Expected result
-Войти на сайт 
+Кликнуть на раздел "Еда"
