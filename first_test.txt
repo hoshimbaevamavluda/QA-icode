@@ -1,6 +1,11 @@
 ID
+1
 Summary
-Preconditions
-Steps
-Expected result
-Кликнуть на раздел "Еда"
+Check header tabs
+Preconditions:
+Открыт сайт https://zara-ashi.github.io/trip-tajikistan/index.html
+Steps:
+1) Кликнуть раздел "Развлечения"   Expected result: Отображается раздел "Развлечения"
+2) Кликнуть раздел "Главная"   Expected result: Отображается раздел "Главной страницы"
+3) Кликнуть раздел "Еда"   Expected result: Отображается раздел "Еда"
+
